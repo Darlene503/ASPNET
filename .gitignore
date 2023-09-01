@@ -11,6 +11,7 @@ autom4te.cache/
 tarballs/
 test-results/
 
+
 # Mac bundle stuff
 *.dmg
 *.app
@@ -78,8 +79,9 @@ $RECYCLE.BIN/
 # User-specific files
 *.suo
 *.user
-*.userosscache
-*.sln.docstates
+*.userosscaches
+*.sln.docstates8
+*appsetting.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
